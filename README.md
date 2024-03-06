@@ -29,9 +29,11 @@ We are a group of four enthusiastic web development students, each bringing our 
 
 
 * 🌍  We are based in Barcelona  Spain
-* 🖥️  
+* 🖥️  Project: YumMe
 * ✉️  You can contact me at [almarvima.yumme@gmail.com](mailto:almarvima.yumme@gmail.com)
 * 🚀  We are currently working on [finishing our final project at the open institute of catalonia](https://ioc.xtec.cat/educacio/)
+![](https://triafutur.terrassa.cat/wp-content/uploads/2021/03/Logo_ioc.jpg)
+
 <br>
 
 ### Technologies
