@@ -33,6 +33,7 @@ We are a group of four enthusiastic web development students, each bringing our 
 * ✉️  You can contact me at [almarvima.yumme@gmail.com](mailto:almarvima.yumme@gmail.com)
 * 🚀  We are currently working on [finishing our final project at the open institute of catalonia](https://ioc.xtec.cat/educacio/)
 <br>
+
 ### Technologies
 
 <p align="left">
