@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is the capstone of our Web Application Development associate's degree, embodying the culmination of our learning and collaborative efforts.  
-  
-  Developed by a team of four students, this project aims to showcase our technical skills, teamwork capabilities, and passion for crafting innovative web solutions.
+<br>Developed by a team of four students, this project aims to showcase our technical skills, teamwork capabilities, and passion for crafting innovative web solutions.
 ===========================================================================================================================================
 
 - Albert Figuerola Gómez
