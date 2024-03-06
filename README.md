@@ -19,19 +19,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Team
 
-- Albert Figuerola Gómez: Focused on back-end development, ensuring robust and efficient server functionality.
-- Marcos Martínez Clemente: Our database expert, securing data integrity and optimizing data interactions.
-- Viktor Lazarenko: Specializing in front-end development, bringing creativity and expertise in user interface design.
-- Manuel García Nieto: Dedicated to full-stack development, integrating front-end and back-end aspects seamlessly and ensuring the overall performance.
+We are a group of four enthusiastic web development students, each bringing our unique skills and perspectives to the project.
+
+- **Albert Figuerola Gómez**: Focused on back-end development, ensuring robust and efficient server functionality.
+- **Marcos Martínez Clemente**: Our database expert, securing data integrity and optimizing data interactions.
+- **Viktor Lazarenko**: Specializing in front-end development, bringing creativity and expertise in user interface design.
+- **Manuel García Nieto**: Dedicated to full-stack development, integrating front-end and back-end aspects seamlessly and ensuring the overall performance.
 --------------------
 
-We are a group of four enthusiastic web development students, each bringing our unique skills and perspectives to the project.
 
 * 🌍  We are based in Barcelona  Spain
 * 🖥️  
 * ✉️  You can contact me at [almarvima.yumme@gmail.com](mailto:almarvima.yumme@gmail.com)
 * 🚀  We are currently working on [finishing our final project at the open institute of catalonia](https://ioc.xtec.cat/educacio/)
-
+<br>
 ### Technologies
 
 <p align="left">
