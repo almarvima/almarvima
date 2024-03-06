@@ -17,10 +17,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>Developed by a team of four students, this project aims to showcase our technical skills, teamwork capabilities, and passion for crafting innovative web solutions.
 ===========================================================================================================================================
 
-- Albert Figuerola Gómez
-- Marcos Martínez Clemente
-- Viktor Lazarenko
-- Manuel García Nieto
+### Team
+
+- Albert Figuerola Gómez: Focused on back-end development, ensuring robust and efficient server functionality.
+- Marcos Martínez Clemente: Our database expert, securing data integrity and optimizing data interactions.
+- Viktor Lazarenko: Specializing in front-end development, bringing creativity and expertise in user interface design.
+- Manuel García Nieto: Dedicated to full-stack development, integrating front-end and back-end aspects seamlessly and ensuring the overall performance.
 --------------------
 
 We are a group of four enthusiastic web development students, each bringing our unique skills and perspectives to the project.
@@ -30,7 +32,7 @@ We are a group of four enthusiastic web development students, each bringing our 
 * ✉️  You can contact me at [almarvima.yumme@gmail.com](mailto:almarvima.yumme@gmail.com)
 * 🚀  We are currently working on [finishing our final project at the open institute of catalonia](https://ioc.xtec.cat/educacio/)
 
-### Skills
+### Technologies
 
 <p align="left">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -51,6 +53,6 @@ We are a group of four enthusiastic web development students, each bringing our 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
+### Features
+### Installation
+### Usage
