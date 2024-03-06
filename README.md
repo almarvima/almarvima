@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is the capstone of our Web Application Development associate's degree, embodying the culmination of our learning and collaborative efforts. 
-## Developed by a team of four students, this project aims to showcase our technical skills, teamwork capabilities, and passion for crafting innovative web solutions.
+ Developed by a team of four students, this project aims to showcase our technical skills, teamwork capabilities, and passion for crafting innovative web solutions.
 ===========================================================================================================================================
 
 - Albert Figuerola Gómez
@@ -25,7 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 We are a group of four enthusiastic web development students, each bringing our unique skills and perspectives to the project.
 
-* 🌍  We are based in Barcelona Spain
+* 🌍  We are based in Barcelona  Spain
 * 🖥️  
 * ✉️  You can contact me at [almarvima.yumme@gmail.com](mailto:almarvima.yumme@gmail.com)
 * 🚀  We are currently working on [finishing our final project at the open institute fo catalonia](https://ioc.xtec.cat/educacio/)
@@ -33,7 +33,7 @@ We are a group of four enthusiastic web development students, each bringing our 
 ### Skills
 
 <p align="left">
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
