@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is the capstone of our Web Application Development associate's degree, embodying the culmination of our learning and collaborative efforts. 
- Developed by a team of four students, this project aims to showcase our technical skills, teamwork capabilities, and passion for crafting innovative web solutions.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) this is the capstone of our Web Application Development associate's degree, embodying the culmination of our learning and collaborative efforts.  
+Developed by a team of four students, this project aims to showcase our technical skills, teamwork capabilities, and passion for crafting innovative web solutions.
 ===========================================================================================================================================
 
 - Albert Figuerola Gómez
@@ -28,7 +28,7 @@ We are a group of four enthusiastic web development students, each bringing our 
 * 🌍  We are based in Barcelona  Spain
 * 🖥️  
 * ✉️  You can contact me at [almarvima.yumme@gmail.com](mailto:almarvima.yumme@gmail.com)
-* 🚀  We are currently working on [finishing our final project at the open institute fo catalonia](https://ioc.xtec.cat/educacio/)
+* 🚀  We are currently working on [finishing our final project at the open institute of catalonia](https://ioc.xtec.cat/educacio/)
 
 ### Skills
 
